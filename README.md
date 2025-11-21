@@ -6,7 +6,7 @@ Repository içerisinde, saldırı yüzeylerinin anlaşılması için çeşitli s
 
 Bu depoyu, hem teknik analizlerimi geliştirmek hem de proje ekibine katkı sağlamak amacıyla düzenli olarak güncelliyorum.
 
-
+.
 
 
 
